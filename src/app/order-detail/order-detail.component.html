@@ -1,0 +1,46 @@
+<div class="modal-header">
+  <h4 class="modal-title">Order Detail</h4>
+  <button type="button" class="close" aria-label="Close" (click)="activeModal.dismiss('Cross click')">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<div class="modal-body">
+  <div>
+    <div>
+      <strong>Order Id:</strong> {{orderDetail.order_id}}
+    </div>
+    <div>
+      <strong> Name:</strong> {{orderDetail.customer_name}}
+    </div>
+    <div>
+      <strong> Address:</strong> {{orderDetail.delivery_address}}
+    </div>
+    <div class="order-detail-view">
+      <div class="row order-detail-row" *ngFor="let orderItem of orderDetail.items">
+        <div class="col-md-2 col-xs-12">
+          <img class="image" src="assets/{{orderItem.image}}" />
+        </div>
+        <div class="col-md-4 col-xs-12 text-info">
+          {{orderItem.item_name}}
+        </div>
+        <div class=" col-md-3 col-xs-6 text-dark">
+          {{orderItem.price}}
+        </div>
+      </div>
+    </div>
+    <div>
+      Total Amount : {{orderDetail.items | sum:'price'}}
+    </div>
+  </div>
+</div>
+<div class="modal-footer justify-content-between align-items-center">
+  <label>Change Order Status to:</label>
+  <div class="btn-group" role="group" aria-label="Basic example">
+    <button type="button" class="btn" [ngClass]="orderDetail.status === 'Received' ? 'btn-info': 'btn-secondary'"
+      (click)="updateStatus('Received')">Recieved</button>
+    <button type="button" class="btn" [ngClass]="orderDetail.status === 'Preparing' ? 'btn-info': 'btn-secondary'"
+      (click)="updateStatus('Preparing')">Preparing</button>
+    <button type="button" class="btn" [ngClass]="orderDetail.status === 'Ready' ? 'btn-info': 'btn-secondary'"
+      (click)="updateStatus('Ready')">Ready</button>
+  </div>
+</div>

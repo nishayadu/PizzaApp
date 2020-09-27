@@ -1,0 +1,425 @@
+[
+  {
+    "customer_id": "C01",
+    "customer_name": "Mr.Mann Singh",
+    "delivery_address": "101, Kormangala, Bangalore, Karnataka",
+    "order_id": "O01",
+    "items": [
+      {
+        "item_id": "I01",
+        "item_name": "Celeritas",
+        "price": 500,
+        "image": "1.png"
+      },
+      {
+        "item_id": "I02",
+        "item_name": "Tornado",
+        "price": 400,
+        "image": "2.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C02",
+    "customer_name": "Mrs. Priya Chaudhary",
+    "delivery_address": "302, HSR Layout, Bangalore, Karnataka",
+    "order_id": "O02",
+    "items": [
+      {
+        "item_id": "I03",
+        "item_name": "Magneta",
+        "price": 600,
+        "image": "3.png"
+      },
+      {
+        "item_id": "I04",
+        "item_name": "Magma",
+        "price": 400,
+        "image": "4.png"
+      },
+      {
+        "item_id": "I05",
+        "item_name": "Bombasto",
+        "price": 900,
+        "image": "5.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C03",
+    "customer_name": "Mr. Harsh Verma",
+    "delivery_address": "501, Indira Nagar, Bangalore, Karnataka",
+    "order_id": "O03",
+    "items": [
+      {
+        "item_id": "I03",
+        "item_name": "Magneta",
+        "price": 600,
+        "image": "3.png"
+      },
+      {
+        "item_id": "I05",
+        "item_name": "Bombasto",
+        "price": 900,
+        "image": "5.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C04",
+    "customer_name": "Ms. Nalini Sharma",
+    "delivery_address": "501, Bellandur, Bangalore, Karnataka",
+    "order_id": "O04",
+    "items": [
+      {
+        "item_id": "I01",
+        "item_name": "Celeritas",
+        "price": 500,
+        "image": "1.png"
+      },
+      {
+        "item_id": "I02",
+        "item_name": "Tornado",
+        "price": 400,
+        "image": "2.png"
+      },
+      {
+        "item_id": "I03",
+        "item_name": "Magneta",
+        "price": 600,
+        "image": "3.png"
+      },
+      {
+        "item_id": "I05",
+        "item_name": "Bombasto",
+        "price": 900,
+        "image": "5.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C05",
+    "customer_name": "Mr. Deepak Yadav",
+    "delivery_address": "406, Marathahalli, Bangalore, Karnataka",
+    "order_id": "O05",
+    "items": [
+      {
+        "item_id": "I06",
+        "item_name": "Margherita",
+        "price": 700,
+        "image": "6.png"
+      },
+      {
+        "item_id": "I07",
+        "item_name": "Narco",
+        "price": 900,
+        "image": "7.png"
+      },
+      {
+        "item_id": "I03",
+        "item_name": "Magneta",
+        "price": 600,
+        "image": "3.png"
+      },
+      {
+        "item_id": "I05",
+        "item_name": "Bombasto",
+        "price": 900,
+        "image": "5.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C06",
+    "customer_name": "Mr. Neeraj Jain",
+    "delivery_address": "606, Whitefield, Bangalore, Karanataka",
+    "order_id": "O06",
+    "items": [
+      {
+        "item_id": "I06",
+        "item_name": "Margherita",
+        "price": 700,
+        "image": "6.png"
+      },
+      {
+        "item_id": "I01",
+        "item_name": "Celeritas",
+        "price": 500,
+        "image": "1.png"
+      },
+      {
+        "item_id": "I02",
+        "item_name": "Tornado",
+        "price": 400,
+        "image": "2.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C07",
+    "customer_name": "Mrs. Rashmi Nair",
+    "delivery_address": "606, Whitefield, Bangalore",
+    "order_id": "O07",
+    "items": [
+      {
+        "item_id": "I06",
+        "item_name": "Margherita",
+        "price": 700,
+        "image": "6.png"
+      },
+      {
+        "item_id": "I01",
+        "item_name": "Celeritas",
+        "price": 500,
+        "image": "1.png"
+      },
+      {
+        "item_id": "I03",
+        "item_name": "Magneta",
+        "price": 600,
+        "image": "3.png"
+      },
+      {
+        "item_id": "I05",
+        "item_name": "Bombasto",
+        "price": 900,
+        "image": "5.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C08",
+    "customer_name": "Ms.Shilpa Verma",
+    "delivery_address": "806, Kormangala, Bangalore, Karnataka",
+    "order_id": "O08",
+    "items": [
+      {
+        "item_id": "I01",
+        "item_name": "Celeritas",
+        "price": 500,
+        "image": "1.png"
+      },
+      {
+        "item_id": "I02",
+        "item_name": "Tornado",
+        "price": 400,
+        "image": "2.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C09",
+    "customer_name": "Mr. Naman Malhotra ",
+    "delivery_address": "302, HSR Layout, Bangalore, Karnataka",
+    "order_id": "O09",
+    "items": [
+      {
+        "item_id": "I03",
+        "item_name": "Magneta",
+        "price": 600,
+        "image": "3.png"
+      },
+      {
+        "item_id": "I04",
+        "item_name": "Magma",
+        "price": 400,
+        "image": "4.png"
+      },
+      {
+        "item_id": "I05",
+        "item_name": "Bombasto",
+        "price": 900,
+        "image": "5.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C10",
+    "customer_name": "Mr. Himansi Jangel",
+    "delivery_address": "308, Indira Nagar, Bangalore, Karnataka",
+    "order_id": "O10",
+    "items": [
+      {
+        "item_id": "I03",
+        "item_name": "Magneta",
+        "price": 600,
+        "image": "3.png"
+      },
+      {
+        "item_id": "I05",
+        "item_name": "Bombasto",
+        "price": 900,
+        "image": "5.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C11",
+    "customer_name": "Mr. Aditya Roy",
+    "delivery_address": "601, Bellandur, Bangalore, Karnataka",
+    "order_id": "O11",
+    "items": [
+      {
+        "item_id": "I01",
+        "item_name": "Celeritas",
+        "price": 500,
+        "image": "1.png"
+      },
+      {
+        "item_id": "I02",
+        "item_name": "Tornado",
+        "price": 400,
+        "image": "2.png"
+      },
+      {
+        "item_id": "I03",
+        "item_name": "Magneta",
+        "price": 600,
+        "image": "3.png"
+      },
+      {
+        "item_id": "I05",
+        "item_name": "Bombasto",
+        "price": 900,
+        "image": "5.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C12",
+    "customer_name": "Mr. Ravi Sharma",
+    "delivery_address": "302, Marathahalli, Bangalore, Karnataka",
+    "order_id": "O12",
+    "items": [
+      {
+        "item_id": "I06",
+        "item_name": "Margherita",
+        "price": 700,
+        "image": "6.png"
+      },
+      {
+        "item_id": "I07",
+        "item_name": "Narco",
+        "price": 900,
+        "image": "7.png"
+      },
+      {
+        "item_id": "I03",
+        "item_name": "Magneta",
+        "price": 600,
+        "image": "3.png"
+      },
+      {
+        "item_id": "I05",
+        "item_name": "Bombasto",
+        "price": 900,
+        "image": "5.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C13",
+    "customer_name": "Mr. Mohit Surana",
+    "delivery_address": "606, Whitefield, Bangalore, Karanataka",
+    "order_id": "O13",
+    "items": [
+      {
+        "item_id": "I06",
+        "item_name": "Margherita",
+        "price": 700,
+        "image": "6.png"
+      },
+      {
+        "item_id": "I01",
+        "item_name": "Celeritas",
+        "price": 500,
+        "image": "1.png"
+      },
+      {
+        "item_id": "I02",
+        "item_name": "Tornado",
+        "price": 400,
+        "image": "2.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C14",
+    "customer_name": "Mrs. Nikita Bhawnani",
+    "delivery_address": "606, Whitefield, Bangalore",
+    "order_id": "O14",
+    "items": [
+      {
+        "item_id": "I06",
+        "item_name": "Margherita",
+        "price": 700,
+        "image": "6.png"
+      },
+      {
+        "item_id": "I01",
+        "item_name": "Celeritas",
+        "price": 500,
+        "image": "1.png"
+      },
+      {
+        "item_id": "I03",
+        "item_name": "Magneta",
+        "price": 600,
+        "image": "3.png"
+      },
+      {
+        "item_id": "I05",
+        "item_name": "Bombasto",
+        "price": 900,
+        "image": "5.png"
+      }
+    ],
+    "status": "Received"
+  },
+  {
+    "customer_id": "C15",
+    "customer_name": "Mrs. Ankita Pandey",
+    "delivery_address": "906, Whitefield, Bangalore",
+    "order_id": "O15",
+    "items": [
+      {
+        "item_id": "I06",
+        "item_name": "Margherita",
+        "price": 700,
+        "image": "6.png"
+      },
+      {
+        "item_id": "I01",
+        "item_name": "Celeritas",
+        "price": 500,
+        "image": "1.png"
+      },
+      {
+        "item_id": "I03",
+        "item_name": "Magneta",
+        "price": 600,
+        "image": "3.png"
+      },
+      {
+        "item_id": "I05",
+        "item_name": "Bombasto",
+        "price": 900,
+        "image": "5.png"
+      }
+    ],
+    "status": "Received"
+  }
+]

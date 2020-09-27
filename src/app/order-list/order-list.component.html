@@ -1,0 +1,70 @@
+<section class="container">
+  <div class="order-list-wrapper">
+    <div class="order-list">
+      <div class="order-list-controls">
+        <div class="control-item">
+
+          <div ngbDropdown placement="bottom-right" class="d-flex justify-content-end align-items-center">
+            Filter By Order Status :
+            <button class="btn btn-outline-info dropdown-btn" id="dropdownBasic1" ngbDropdownToggle>
+              {{status}}</button>
+            <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+
+              <button ngbDropdownItem *ngFor="let status of orderStatus"
+                (click)="changeStatus(status)">{{status}}</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <table class="order-list-view table">
+    <thead>
+      <tr>
+        <th scope="col">
+          Order ID
+        </th>
+        <th scope="col">
+          Customer Name
+        </th>
+        <th scope="col">
+          No of Items
+        </th>
+        <th scope="col">
+          Total Amount
+        </th>
+        <th scope="col">
+          Current Status
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let order of orderData">
+        <td scope="row">
+          <a href="#" class="text-info" (click)="open($event, order)">
+            {{order.order_id}}
+          </a>
+        </td>
+        <td>
+          <a href="#" class="text-info" (click)="open($event,order)">{{order.customer_name}}</a>
+        </td>
+        <td>
+          {{order.items.length}}
+        </td>
+        <td>
+          {{order.items | sum:'price'}}
+        </td>
+        <td>
+          <div class="d-flex justify-content-between">
+            {{order.status}}
+            <button class="btn btn-info" *ngIf="getNextStatus(order.status)" (click)="changeStatustoNext(order)">
+              Move to {{getNextStatus(order.status)}}
+            </button>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+
+  </table>
+</section>
