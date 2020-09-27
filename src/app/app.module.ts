@@ -22,6 +22,7 @@ import { SumPipe } from './pipe/sum.pipe';
   ],
   imports: [BrowserModule, AppRoutingModule, NgbModule, HttpClientModule],
   providers: [],
+  entryComponents:[OrderDetailComponent],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

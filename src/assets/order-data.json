@@ -9,13 +9,13 @@
         "item_id": "I01",
         "item_name": "Celeritas",
         "price": 500,
-        "image": "1.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/1.png"
       },
       {
         "item_id": "I02",
         "item_name": "Tornado",
         "price": 400,
-        "image": "2.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/2.png"
       }
     ],
     "status": "Received"
@@ -30,19 +30,19 @@
         "item_id": "I03",
         "item_name": "Magneta",
         "price": 600,
-        "image": "3.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/3.png"
       },
       {
         "item_id": "I04",
         "item_name": "Magma",
         "price": 400,
-        "image": "4.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/4.png"
       },
       {
         "item_id": "I05",
         "item_name": "Bombasto",
         "price": 900,
-        "image": "5.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/5.png"
       }
     ],
     "status": "Received"
@@ -57,13 +57,13 @@
         "item_id": "I03",
         "item_name": "Magneta",
         "price": 600,
-        "image": "3.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/3.png"
       },
       {
         "item_id": "I05",
         "item_name": "Bombasto",
         "price": 900,
-        "image": "5.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/5.png"
       }
     ],
     "status": "Received"
@@ -78,25 +78,25 @@
         "item_id": "I01",
         "item_name": "Celeritas",
         "price": 500,
-        "image": "1.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/1.png"
       },
       {
         "item_id": "I02",
         "item_name": "Tornado",
         "price": 400,
-        "image": "2.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/2.png"
       },
       {
         "item_id": "I03",
         "item_name": "Magneta",
         "price": 600,
-        "image": "3.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/3.png"
       },
       {
         "item_id": "I05",
         "item_name": "Bombasto",
         "price": 900,
-        "image": "5.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/5.png"
       }
     ],
     "status": "Received"
@@ -111,25 +111,25 @@
         "item_id": "I06",
         "item_name": "Margherita",
         "price": 700,
-        "image": "6.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/6.png"
       },
       {
         "item_id": "I07",
         "item_name": "Narco",
         "price": 900,
-        "image": "7.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/7.png"
       },
       {
         "item_id": "I03",
         "item_name": "Magneta",
         "price": 600,
-        "image": "3.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/3.png"
       },
       {
         "item_id": "I05",
         "item_name": "Bombasto",
         "price": 900,
-        "image": "5.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/5.png"
       }
     ],
     "status": "Received"
@@ -144,19 +144,19 @@
         "item_id": "I06",
         "item_name": "Margherita",
         "price": 700,
-        "image": "6.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/6.png"
       },
       {
         "item_id": "I01",
         "item_name": "Celeritas",
         "price": 500,
-        "image": "1.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/1.png"
       },
       {
         "item_id": "I02",
         "item_name": "Tornado",
         "price": 400,
-        "image": "2.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/2.png"
       }
     ],
     "status": "Received"
@@ -171,25 +171,25 @@
         "item_id": "I06",
         "item_name": "Margherita",
         "price": 700,
-        "image": "6.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/6.png"
       },
       {
         "item_id": "I01",
         "item_name": "Celeritas",
         "price": 500,
-        "image": "1.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/1.png"
       },
       {
         "item_id": "I03",
         "item_name": "Magneta",
         "price": 600,
-        "image": "3.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/3.png"
       },
       {
         "item_id": "I05",
         "item_name": "Bombasto",
         "price": 900,
-        "image": "5.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/5.png"
       }
     ],
     "status": "Received"
@@ -204,13 +204,13 @@
         "item_id": "I01",
         "item_name": "Celeritas",
         "price": 500,
-        "image": "1.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/1.png"
       },
       {
         "item_id": "I02",
         "item_name": "Tornado",
         "price": 400,
-        "image": "2.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/2.png"
       }
     ],
     "status": "Received"
@@ -225,19 +225,19 @@
         "item_id": "I03",
         "item_name": "Magneta",
         "price": 600,
-        "image": "3.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/3.png"
       },
       {
         "item_id": "I04",
         "item_name": "Magma",
         "price": 400,
-        "image": "4.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/4.png"
       },
       {
         "item_id": "I05",
         "item_name": "Bombasto",
         "price": 900,
-        "image": "5.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/5.png"
       }
     ],
     "status": "Received"
@@ -252,13 +252,13 @@
         "item_id": "I03",
         "item_name": "Magneta",
         "price": 600,
-        "image": "3.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/3.png"
       },
       {
         "item_id": "I05",
         "item_name": "Bombasto",
         "price": 900,
-        "image": "5.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/5.png"
       }
     ],
     "status": "Received"
@@ -273,25 +273,25 @@
         "item_id": "I01",
         "item_name": "Celeritas",
         "price": 500,
-        "image": "1.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/1.png"
       },
       {
         "item_id": "I02",
         "item_name": "Tornado",
         "price": 400,
-        "image": "2.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/2.png"
       },
       {
         "item_id": "I03",
         "item_name": "Magneta",
         "price": 600,
-        "image": "3.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/3.png"
       },
       {
         "item_id": "I05",
         "item_name": "Bombasto",
         "price": 900,
-        "image": "5.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/5.png"
       }
     ],
     "status": "Received"
@@ -306,25 +306,25 @@
         "item_id": "I06",
         "item_name": "Margherita",
         "price": 700,
-        "image": "6.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/6.png"
       },
       {
         "item_id": "I07",
         "item_name": "Narco",
         "price": 900,
-        "image": "7.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/7.png"
       },
       {
         "item_id": "I03",
         "item_name": "Magneta",
         "price": 600,
-        "image": "3.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/3.png"
       },
       {
         "item_id": "I05",
         "item_name": "Bombasto",
         "price": 900,
-        "image": "5.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/5.png"
       }
     ],
     "status": "Received"
@@ -339,19 +339,19 @@
         "item_id": "I06",
         "item_name": "Margherita",
         "price": 700,
-        "image": "6.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/6.png"
       },
       {
         "item_id": "I01",
         "item_name": "Celeritas",
         "price": 500,
-        "image": "1.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/1.png"
       },
       {
         "item_id": "I02",
         "item_name": "Tornado",
         "price": 400,
-        "image": "2.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/2.png"
       }
     ],
     "status": "Received"
@@ -366,25 +366,25 @@
         "item_id": "I06",
         "item_name": "Margherita",
         "price": 700,
-        "image": "6.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/6.png"
       },
       {
         "item_id": "I01",
         "item_name": "Celeritas",
         "price": 500,
-        "image": "1.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/1.png"
       },
       {
         "item_id": "I03",
         "item_name": "Magneta",
         "price": 600,
-        "image": "3.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/3.png"
       },
       {
         "item_id": "I05",
         "item_name": "Bombasto",
         "price": 900,
-        "image": "5.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/5.png"
       }
     ],
     "status": "Received"
@@ -399,25 +399,25 @@
         "item_id": "I06",
         "item_name": "Margherita",
         "price": 700,
-        "image": "6.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/6.png"
       },
       {
         "item_id": "I01",
         "item_name": "Celeritas",
         "price": 500,
-        "image": "1.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/1.png"
       },
       {
         "item_id": "I03",
         "item_name": "Magneta",
         "price": 600,
-        "image": "3.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/3.png"
       },
       {
         "item_id": "I05",
         "item_name": "Bombasto",
         "price": 900,
-        "image": "5.png"
+        "image": "https://raw.githubusercontent.com/nishayadu/PizzaApp/master/src/assets/5.png"
       }
     ],
     "status": "Received"
