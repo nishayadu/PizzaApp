@@ -15,6 +15,7 @@ export class OrderDetailComponent {
     private _orderDataService: OrderService
   ) {}
 
+// to change order status and storing in local storage
   updateStatus(orderStatus: OrderStatus) {
     this.orderDetail.status = orderStatus;
     this._orderDataService.changeOrderStatus(this.orderDetail, orderStatus);

@@ -17,6 +17,7 @@ export class OrderService {
   );
   constructor(private _httpClient: HttpClient) {}
 
+// to fetch data from json file and filtering data based on order status
   public getOrderList(orderStatus: OrderStatusFilter) {
     return this._httpClient.get('assets/order-data.json').pipe(
       map((data: OrderData) => {
@@ -29,7 +30,7 @@ export class OrderService {
                 status: this.allOrderStatus[item.order_id] || item.status,
               };
             })
-
+            // filter data based on order status
             .filter((item) => {
               if (orderStatus != 'All') {
                 return item.status == orderStatus;
@@ -42,6 +43,7 @@ export class OrderService {
     );
   }
 
+// change the status of all the order item when order status is changed and setting into local storage
   public changeOrderStatus(orderDetail: OrderDetail, status: OrderStatus) {
     this.allOrderStatus[orderDetail.order_id] = status;
     localStorage.setItem('allOrderStatus', JSON.stringify(this.allOrderStatus));
